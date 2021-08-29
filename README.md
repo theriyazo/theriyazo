@@ -1,5 +1,5 @@
- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
- #HI there, I’m @theriyazo!
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+#HI there, I’m @theriyazo!
 - 👀 I’m interested in javaScript, html5,css,python and grabbing coffee😋.
 - 🌱 I’m currently learning web devlopment and android development.
 - 💞️ I’m looking to collaborate on web dev projects.
