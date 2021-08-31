@@ -1,4 +1,4 @@
-<img src="https://1.bp.blogspot.com/-MY1c3CZSKss/YS5P3CM45AI/AAAAAAAAjUk/mmv4umyEPmUqBt6U3eEKWMPdq4IZ5x9HwCLcBGAsYHQ/s872/theriyazo%2Bwhite%2Band%2Bgreen%2Bsmall.png">
+<img src="https://1.bp.blogspot.com/-2FLPXf8FbNc/YS5phDwW4kI/AAAAAAAAjVg/Yh1PLksXN4AGlqMoNM_QE_uX-Tvl1bQbQCLcBGAsYHQ/s872/Logo.png">
 
  # HI there, I’m RiyazAhamad <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 🤸‍♂️ I'm a UX designer, a developer, and a son.
@@ -17,12 +17,12 @@
 [![theriyazo Dribble][5.1]][5]
 [![theriyazo YouTube][6.1]][6]
 
-[1.1]: https://1.bp.blogspot.com/-9Ofy7pGkAGw/YS5U9FOOnCI/AAAAAAAAjU4/2HiSa6jp2kAHM-Fe-XgmREHM0uF51sJawCLcBGAsYHQ/s240/iconmonstr-linkedin-3-240.png
-[2.1]: https://1.bp.blogspot.com/-R9NCNXNC2o0/YS5U9TQ5xkI/AAAAAAAAjU8/kjdMn-_AiGoNFx6xB7-epH3NrJv6GSsqACLcBGAsYHQ/s240/iconmonstr-twitter-3-240.png
-[3.1]: https://1.bp.blogspot.com/-YCMP8V2LStc/YS5U8H9iEYI/AAAAAAAAjUw/Ps5hB4c06K0iujOAgRE5jf8uNEO4EWNZACLcBGAsYHQ/s240/iconmonstr-instagram-13-240.png
-[4.1]: https://1.bp.blogspot.com/-er1ZjRDCZVk/YS5U9drYGTI/AAAAAAAAjVA/dB8g5K_crFgpTVl4zJ_WXGaOZJeat8dMQCLcBGAsYHQ/s240/iconmonstr-medium-3-240.png
-[5.1]: https://1.bp.blogspot.com/-6rVaSoGmBY0/YS5U8KmnMLI/AAAAAAAAjU0/g5Iuuu_0f2IXnp46JNuQ2fDr6hBP1AnHgCLcBGAsYHQ/s240/iconmonstr-dribbble-3-240.png
-[6.1]:https://1.bp.blogspot.com/-ie0CIh_sAKo/YS5U9gxxmiI/AAAAAAAAjVE/lEs2bS1e4Ygq04rK0xSxB0DeOG3BC24XQCLcBGAsYHQ/s240/iconmonstr-youtube-8-240.png
+[1.1]: https://1.bp.blogspot.com/-jiWIubNhosI/YS5piJx5tHI/AAAAAAAAjVo/s_UAEno0cbwTHZwVRFg-NQPWHf6v9cC_QCLcBGAsYHQ/s56/theriyazo%2Blinkedin.png
+[2.1]: https://1.bp.blogspot.com/-MU1ha1W3uQY/YS5pisCwulI/AAAAAAAAjVw/TG9UYj_GMicHoHgiG9aEYXVxIM7Z87nkwCLcBGAsYHQ/s56/theriyazo%2Btwitter.png
+[3.1]: https://1.bp.blogspot.com/-WJG-NK4DJjE/YS5piJnSpOI/AAAAAAAAjVk/7RCGP1t1P4AaWvc3GyM7zPeA1KYZQlRMQCLcBGAsYHQ/s56/theriyazo%2Binstagram.png
+[4.1]: https://1.bp.blogspot.com/-ymPR30AyK9E/YS5piZzCL7I/AAAAAAAAjVs/3teKCzsxaco24KIEWbPbJJq7Oz4FKNbqQCLcBGAsYHQ/s56/theriyazo%2Bmedium.png
+[5.1]: https://1.bp.blogspot.com/-Q8nKSYsJ7BI/YS5phOpTSNI/AAAAAAAAjVY/sPtveqjMs9A21XktoITG4W-L7HQWDmNGgCLcBGAsYHQ/s56/theriyazo%2Bdribbble.png
+[6.1]: https://1.bp.blogspot.com/-r8nJXDYnhmw/YS5pi5SW3wI/AAAAAAAAjV0/ZpYmRXzeNI8shubx-3EXwlWxOhh1PNZFwCLcBGAsYHQ/s56/theriyazo%2Byoutube.png
 
 
 [1]: https://www.linkedin.com/in/theriyazo/
