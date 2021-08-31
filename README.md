@@ -1,4 +1,4 @@
-<img src="https://1.bp.blogspot.com/-2FLPXf8FbNc/YS5phDwW4kI/AAAAAAAAjVg/Yh1PLksXN4AGlqMoNM_QE_uX-Tvl1bQbQCLcBGAsYHQ/s872/Logo.png">
+<img src="https://1.bp.blogspot.com/-Qn4AMcBOaDs/YS50gXu_CSI/AAAAAAAAjW0/gOViyswx9nQ51PvT-I8XEsHZFMszEztLwCLcBGAsYHQ/s872/theriyazo%2Bgithub.png">
 
  # HI there, I’m RiyazAhamad <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 🤸‍♂️ I'm a UX designer, a developer, and a son.
