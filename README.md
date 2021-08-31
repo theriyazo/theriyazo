@@ -1,6 +1,6 @@
 <img src="https://1.bp.blogspot.com/-Qn4AMcBOaDs/YS50gXu_CSI/AAAAAAAAjW0/gOViyswx9nQ51PvT-I8XEsHZFMszEztLwCLcBGAsYHQ/s872/theriyazo%2Bgithub.png">
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [RiyazAhamad!](https://kunal-kushwaha.github.io) 
 
- [![theriyazo LinkedIn][7.1]][7]  *HI there, I’m RiyazAhamad*
 - 🤸‍♂️ I'm a UX designer, a developer, and a son.
 - 🛸 A Blockchain enthusiast
 - 🌱 I’m currently learning everything.
