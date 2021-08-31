@@ -23,7 +23,7 @@
 [4.1]: https://1.bp.blogspot.com/-ymPR30AyK9E/YS5piZzCL7I/AAAAAAAAjVs/3teKCzsxaco24KIEWbPbJJq7Oz4FKNbqQCLcBGAsYHQ/s56/theriyazo%2Bmedium.png
 [5.1]: https://1.bp.blogspot.com/-Q8nKSYsJ7BI/YS5phOpTSNI/AAAAAAAAjVY/sPtveqjMs9A21XktoITG4W-L7HQWDmNGgCLcBGAsYHQ/s56/theriyazo%2Bdribbble.png
 [6.1]: https://1.bp.blogspot.com/-r8nJXDYnhmw/YS5pi5SW3wI/AAAAAAAAjV0/ZpYmRXzeNI8shubx-3EXwlWxOhh1PNZFwCLcBGAsYHQ/s56/theriyazo%2Byoutube.png
-[7.1]: <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+[7.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
 
 [1]: https://www.linkedin.com/in/theriyazo/
 [2]: https://twitter.com/theriyazo
