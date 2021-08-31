@@ -1,5 +1,6 @@
 <img src="https://1.bp.blogspot.com/-Qn4AMcBOaDs/YS50gXu_CSI/AAAAAAAAjW0/gOViyswx9nQ51PvT-I8XEsHZFMszEztLwCLcBGAsYHQ/s872/theriyazo%2Bgithub.png">
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [RiyazAhamad!](https://kunal-kushwaha.github.io) 
+
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [RiyazAhamad!](https://www.github.com/theriyazo) 
 
 - 🤸‍♂️ I'm a UX designer, a developer, and a son.
 - 🛸 A Blockchain enthusiast
@@ -23,7 +24,6 @@
 [4.1]: https://1.bp.blogspot.com/-ymPR30AyK9E/YS5piZzCL7I/AAAAAAAAjVs/3teKCzsxaco24KIEWbPbJJq7Oz4FKNbqQCLcBGAsYHQ/s56/theriyazo%2Bmedium.png
 [5.1]: https://1.bp.blogspot.com/-Q8nKSYsJ7BI/YS5phOpTSNI/AAAAAAAAjVY/sPtveqjMs9A21XktoITG4W-L7HQWDmNGgCLcBGAsYHQ/s56/theriyazo%2Bdribbble.png
 [6.1]: https://1.bp.blogspot.com/-r8nJXDYnhmw/YS5pi5SW3wI/AAAAAAAAjV0/ZpYmRXzeNI8shubx-3EXwlWxOhh1PNZFwCLcBGAsYHQ/s56/theriyazo%2Byoutube.png
-[7.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
 
 [1]: https://www.linkedin.com/in/theriyazo/
 [2]: https://twitter.com/theriyazo
@@ -31,7 +31,7 @@
 [4]:https://medium.com/@theriyazo
 [5]:https://dribbble.com/theriyazo
 [6]: https://www.youtube.com/channel/UCsi5__EwbJZiN8rvxpgwWDg
-[7]: https://www.github.com/theriyazo
+
 <br/>
 <!---
 theriyazo/theriyazo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
