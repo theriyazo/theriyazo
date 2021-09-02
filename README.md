@@ -4,7 +4,7 @@
 
 - 🤸‍♂️ I'm a UX designer, a developer, and a son.
 - 🛸 A Blockchain enthusiast
-- 🌱 I’m currently learning everything.
+- 🌱 I’m currently learning everything😜
 - 💞️ I’m looking to collaborate on web and blockchain projects.
 - 🏆 2022 Goal : Contribute more to Open Source Projects
 - ⚡ Fun fact : I love photography and challenges
