@@ -1,14 +1,14 @@
 <img src="https://1.bp.blogspot.com/-Qn4AMcBOaDs/YS50gXu_CSI/AAAAAAAAjW0/gOViyswx9nQ51PvT-I8XEsHZFMszEztLwCLcBGAsYHQ/s872/theriyazo%2Bgithub.png">
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [RiyazAhamad!](https://www.github.com/theriyazo) 
+## Hey, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [RiyazAhamad!](https://www.github.com/theriyazo) 
 
-- 🤸‍♂️ An UX designer, a developer, and a son.
-- 🛸 A Blockchain enthusiast
-- 🌱 I’m currently learning everything😜
+- 🤸‍♂️ A UX designer, developer, and a son.
+- 🛸 A Blockchain enthusiast.
+- 🌱 I’m currently learning everything😜.
 - 💞️ I’m looking to collaborate on web and blockchain projects.
-- 🏆 2022 Goal : Contribute more to Open Source Projects
-- ⚡ Fun fact : I love photography and challenges
-- 📫 I'm sure your an amazing person, 
+- 🏆 2022 Goal : Contribute more to Open Source Projects.
+- ⚡ Fun fact : I love photography and cooking.
+- 📫 I'm sure you're an amazing person, 
 ### Lets Connect! 
 
 [![theriyazo LinkedIn][1.1]][1]
