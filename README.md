@@ -2,7 +2,7 @@
 
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [RiyazAhamad!](https://www.github.com/theriyazo) 
 
-- 🤸‍♂️ I'm a UX designer, a developer, and a son.
+- 🤸‍♂️ An UX designer, a developer, and a son.
 - 🛸 A Blockchain enthusiast
 - 🌱 I’m currently learning everything😜
 - 💞️ I’m looking to collaborate on web and blockchain projects.
