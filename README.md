@@ -32,7 +32,7 @@
 [5]:https://dribbble.com/theriyazo
 [6]: https://www.youtube.com/channel/UCsi5__EwbJZiN8rvxpgwWDg
 
-learning to develope blockchain development
+
 <br/>
 <!---
 theriyazo/theriyazo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
