@@ -8,6 +8,8 @@
 - 💞️ I’m looking to collaborate on web and blockchain projects.
 - 🏆 2022 Goal : Contribute more to Open Source Projects.
 - ⚡ Fun fact : I love photography and cooking.
+- 📫 I'm sure you're an amazing person, 
+
 ### Lets Connect! 
 
 [![theriyazo LinkedIn][1.1]][1]
