@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning everything😜.
 - 💞️ I’m looking to collaborate on web and blockchain projects.
 - 🏆 2022 Goal : Contribute more to Open Source Projects.
-- ⚡ Fun fact : I love photography and cooking.
 
 ### Lets Connect! 
 
