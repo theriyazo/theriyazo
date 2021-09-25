@@ -33,6 +33,7 @@
 [6]: https://www.youtube.com/channel/UCsi5__EwbJZiN8rvxpgwWDg
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theriyazo&layout=compact&hide=php)](https://github.com/theriyazo/github-readme-stats)
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=theriyazo)](https://github.com/theriyazo/)
 
 <br/>
 <!---
