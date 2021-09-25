@@ -42,6 +42,7 @@
 <p>
     <img
     align="left"
+    padding="1px"
     src="https://github-readme-streak-stats.herokuapp.com/?user=theriyazo"
     alt="riyazahamad github streak"
     />
