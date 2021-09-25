@@ -39,15 +39,15 @@
     alt="riyazahamad most used languages"
     />
 </p>
-<p>
+
+<table><tr><td>
     <img
     align="left"
     padding="1px"
     src="https://github-readme-streak-stats.herokuapp.com/?user=theriyazo"
     alt="riyazahamad github streak"
     />
-</p>
-
+</td></tr></table>
 
 <br/>
 <!---
