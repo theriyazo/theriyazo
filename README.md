@@ -36,14 +36,14 @@
     <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=theriyazo&layout=compact&hide=php"
-    alt="RiyazAhamad most used languages"
+    alt="riyazahamad most used languages"
     />
 </p>
 <p>
     <img
     align="left"
     src="https://github-readme-streak-stats.herokuapp.com/?user=theriyazo"
-    alt="RiyazAhamad most used languages"
+    alt="riyazahamad github streak"
     />
 </p>
 
