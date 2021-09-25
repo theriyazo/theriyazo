@@ -39,6 +39,13 @@
     alt="RiyazAhamad most used languages"
     />
 </p>
+<p>
+    <img
+    align="left"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=theriyazo"
+    alt="RiyazAhamad most used languages"
+    />
+</p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theriyazo&layout=compact&hide=php)](https://github.com/theriyazo/)
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=theriyazo)](https://github.com/theriyazo/)
 
