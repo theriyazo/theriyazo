@@ -32,6 +32,13 @@
 [5]:https://dribbble.com/theriyazo
 [6]: https://www.youtube.com/channel/UCsi5__EwbJZiN8rvxpgwWDg
 
+<p>
+    <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=theriyazo&layout=compact&hide=php"
+    alt="RiyazAhamad github Streak"
+    />
+</p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theriyazo&layout=compact&hide=php)](https://github.com/theriyazo/)
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=theriyazo)](https://github.com/theriyazo/)
 
