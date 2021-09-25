@@ -33,21 +33,30 @@
 [6]: https://www.youtube.com/channel/UCsi5__EwbJZiN8rvxpgwWDg
 
 <p>
-    <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=theriyazo&layout=compact&hide=php"
-    alt="riyazahamad most used languages"
-    />
+    
 </p>
 
-<table><tr><td>
-    <img
-    align="left"
-    padding="1px"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=theriyazo"
-    alt="riyazahamad github streak"
-    />
-</td></tr></table>
+<table>
+    <tr>
+        <td>
+            <img
+                align="left"
+                src="https://github-readme-streak-stats.herokuapp.com/?user=theriyazo"
+                alt="riyazahamad github streak"
+            />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img
+                align="left"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=theriyazo&layout=compact&hide=php"
+                alt="riyazahamad most used languages"
+            />
+        </td>
+    </tr>
+    
+</table>
 
 <br/>
 <!---
