@@ -32,10 +32,6 @@
 [5]:https://dribbble.com/theriyazo
 [6]: https://www.youtube.com/channel/UCsi5__EwbJZiN8rvxpgwWDg
 
-<p>
-    
-</p>
-
 <table>
     <tr>
         <td>
