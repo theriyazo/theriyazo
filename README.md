@@ -32,6 +32,7 @@
 [5]:https://dribbble.com/theriyazo
 [6]: https://www.youtube.com/channel/UCsi5__EwbJZiN8rvxpgwWDg
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/theriyazo/github-readme-stats)
 
 <br/>
 <!---
