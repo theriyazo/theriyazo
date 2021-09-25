@@ -36,7 +36,7 @@
     <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=theriyazo&layout=compact&hide=php"
-    alt="RiyazAhamad github Streak"
+    alt="RiyazAhamad most used languages"
     />
 </p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theriyazo&layout=compact&hide=php)](https://github.com/theriyazo/)
