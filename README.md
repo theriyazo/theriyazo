@@ -14,8 +14,8 @@
 [![theriyazo LinkedIn][1.1]][1]
 [![theriyazo Twitter][2.1]][2]
 [![theriyazo Instagram][3.1]][3]
-[![theriyazo Medium][4.1]][4]
-[![theriyazo Dribble][5.1]][5]
+<!-- [![theriyazo Medium][4.1]][4] -->
+<!-- [![theriyazo Dribble][5.1]][5] -->
 [![theriyazo YouTube][6.1]][6]
 
 [1.1]: https://1.bp.blogspot.com/-jiWIubNhosI/YS5piJx5tHI/AAAAAAAAjVo/s_UAEno0cbwTHZwVRFg-NQPWHf6v9cC_QCLcBGAsYHQ/s56/theriyazo%2Blinkedin.png
