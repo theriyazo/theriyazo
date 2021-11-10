@@ -9,7 +9,7 @@
 - 🏆 2022 Goal : Contribute more to Open Source Projects.
 - ⚡ Fun fact : I love photography and cooking.
 
-### Lets Connect! 
+
 
 [![theriyazo LinkedIn][1.1]][1]
 [![theriyazo Twitter][2.1]][2]
