@@ -25,27 +25,30 @@
 [3]: https://www.instagram.com/theriyazo/
 [6]: https://www.youtube.com/channel/UCsi5__EwbJZiN8rvxpgwWDg
 
-<table>
-    <tr>
-        <td>
-            <img
-                align="left"
-                src="https://github-readme-streak-stats.herokuapp.com/?user=theriyazo"
-                alt="riyazahamad github streak"
-            />
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img
-                align="left"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=theriyazo&layout=compact&hide=php"
-                alt="riyazahamad most used languages"
-            />
-        </td>
-    </tr>
+<details>
+    <summary>GitHub Stats</summary>
+    <table>
+        <tr>
+            <td>
+                <img
+                    align="left"
+                    src="https://github-readme-streak-stats.herokuapp.com/?user=theriyazo"
+                    alt="riyazahamad github streak"
+                />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img
+                    align="left"
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=theriyazo&layout=compact&hide=php"
+                    alt="riyazahamad most used languages"
+                />
+            </td>
+        </tr>
+    </table>
     
-</table>
+</details>
 <br>
 <!---
 theriyazo/theriyazo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
