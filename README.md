@@ -27,27 +27,8 @@
 
 <details open>
     <summary>GitHub Stats</summary>
-    <table>
-        <tr>
-            <td>
-                <img
-                    align="left"
-                    src="https://github-readme-streak-stats.herokuapp.com/?user=theriyazo&theme=radical"
-                    alt="riyazahamad github streak"
-                />
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <img
-                    align="left"
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=theriyazo&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28"
-                    alt="riyazahamad most used languages"
-                />
-            </td>
-        </tr>
-    </table>
-    
+                <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=theriyazo&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=69DF69&fire=69DF69&currStreakLabel=69DF69&background=01000016" alt="riyazahamad github streak"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theriyazo&layout=compact&title_color=69DF69&text_color=FFFFFF&icon_color=69DF69&bg_color=01000016" alt="riyazahamad most used languages"/>
 </details>
 <br>
 <!---
