@@ -32,7 +32,7 @@
             <td>
                 <img
                     align="left"
-                    src="https://github-readme-streak-stats.herokuapp.com/?user=theriyazo"
+                    src="https://github-readme-streak-stats.herokuapp.com/?user=theriyazo&theme=radical"
                     alt="riyazahamad github streak"
                 />
             </td>
@@ -41,7 +41,7 @@
             <td>
                 <img
                     align="left"
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=theriyazo&layout=compact&hide=php"
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=theriyazo&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28"
                     alt="riyazahamad most used languages"
                 />
             </td>
