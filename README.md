@@ -1,4 +1,4 @@
-<img src="https://1.bp.blogspot.com/-Qn4AMcBOaDs/YS50gXu_CSI/AAAAAAAAjW0/gOViyswx9nQ51PvT-I8XEsHZFMszEztLwCLcBGAsYHQ/s872/theriyazo%2Bgithub.png">
+<img src="https://1.bp.blogspot.com/-Qn4AMcBOaDs/YS50gXu_CSI/AAAAAAAAjW0/gOViyswx9nQ51PvT-I8XEsHZFMszEztLwCLcBGAsYHQ/s872/theriyazo%2Bgithub.png" background-color="#0D1117">
 
 ## Hey, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [RiyazAhamad!](https://www.theriyazo.com/about) 
 
@@ -27,8 +27,8 @@
 
 <details open>
     <summary>GitHub Stats</summary>
-                <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=theriyazo&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=69DF69&fire=69DF69&currStreakLabel=69DF69&background=01000016" alt="riyazahamad github streak"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theriyazo&layout=compact&title_color=69DF69&text_color=FFFFFF&icon_color=69DF69&bg_color=01000016" alt="riyazahamad most used languages"/>
+                <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=theriyazo&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=69DF69&fire=69DF69&currStreakLabel=69DF69&background=0D1117" alt="riyazahamad github streak"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theriyazo&layout=compact&title_color=69DF69&text_color=FFFFFF&icon_color=69DF69&bg_color=0D1117" alt="riyazahamad most used languages"/>
 </details>
 <br>
 <!---
