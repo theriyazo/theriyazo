@@ -25,7 +25,7 @@
 [3]: https://www.instagram.com/theriyazo/
 [6]: https://www.youtube.com/channel/UCsi5__EwbJZiN8rvxpgwWDg
 
-<details >
+<details open>
     <summary>GitHub Stats</summary>
     <table>
         <tr>
