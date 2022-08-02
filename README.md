@@ -4,10 +4,9 @@
 
 - 🤸‍♂️ A UI/UX designer & developer.
 - 🛸 A Blockchain enthusiast.
-- 🌱 I’m currently learning everything😜.
+- 🌱 I’m currently learning Android development😜.
 - 💞️ I’m looking to collaborate on web2, web3 projects.
-- 🏆 2022 Goal : Contribute more to Open Source Projects.
-- ⚡ Fun fact : I love photography and cooking.
+- ⚡ Fun fact : I can click good pictures and can cook good food.
 
 ### Lets Connect! 
 [![theriyazo LinkedIn][1.1]][1]
