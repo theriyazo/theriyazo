@@ -4,7 +4,7 @@
 
 - 🤸‍♂️ A UI/UX designer & developer.
 - 🛸 A Blockchain enthusiast.
-- 🌱 I’m currently learning Android development😜.
+- 🌱 I’m currently building a web app for my dads shop, to take better customer data driven decisions.
 - 💞️ I’m looking to collaborate on web2, web3 projects.
 - ⚡ Fun fact : I can click good pictures and can cook good food.
 
