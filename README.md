@@ -1,18 +1,23 @@
 <img src="https://1.bp.blogspot.com/-Qn4AMcBOaDs/YS50gXu_CSI/AAAAAAAAjW0/gOViyswx9nQ51PvT-I8XEsHZFMszEztLwCLcBGAsYHQ/s872/theriyazo%2Bgithub.png" background-color="#0D1117">
 
-## Hey, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [RiyazAhamad!](https://www.theriyazo.com/about) 
+## Hey, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [RiyazAhamad!](https://www.theriyazo.com/about)
 
-- 🤸‍♂️ A UI/UX designer & developer.
-- 🛸 A Blockchain enthusiast.
-- 🌱 I’m currently building a web app for my dads shop, to take better customer data driven decisions.
-- 💞️ I’m looking to collaborate on web2, web3 projects.
-- ⚡ Fun fact : I can click good pictures and can cook good food.
+- 👨‍💻 Software Engineer with 3+ years of experience in web and mobile app development.
+- 🎨 UI/UX designer passionate about crafting intuitive user experiences.
+- 🚀 Currently building a web app for better customer data-driven decisions for my family business.
+- 💡 Blockchain enthusiast exploring innovative Web3 projects.
+- 🔧 Skilled in JavaScript, TypeScript, Kotlin, Swift, and Firebase.
+- 🌍 Always open to collaborating on impactful Web2 and Web3 projects.
 
-### Lets Connect! 
-[![theriyazo LinkedIn][1.1]][1]
-[![theriyazo Twitter][2.1]][2]
-[![theriyazo Instagram][3.1]][3]
-[![theriyazo YouTube][6.1]][6]
+### Projects I'm working on:
+- **AllHorses**: A marketplace app for horse enthusiasts.
+- **HeartHadith**: An iOS app providing daily inspiration from the Quran and Hadith based on your mood.
+- **Resume Generator**: A web app that creates ATS-friendly resumes tailored to job descriptions.
+
+⚡ Fun fact: I’m also a pretty good photographer and chef!
+
+### Let's Connect!
+[![theriyazo LinkedIn][1.1]][1] [![theriyazo Twitter][2.1]][2] [![theriyazo Instagram][3.1]][3] [![theriyazo YouTube][6.1]][6]
 
 [1.1]: https://1.bp.blogspot.com/-jiWIubNhosI/YS5piJx5tHI/AAAAAAAAjVo/s_UAEno0cbwTHZwVRFg-NQPWHf6v9cC_QCLcBGAsYHQ/s56/theriyazo%2Blinkedin.png
 [2.1]: https://1.bp.blogspot.com/-MU1ha1W3uQY/YS5pisCwulI/AAAAAAAAjVw/TG9UYj_GMicHoHgiG9aEYXVxIM7Z87nkwCLcBGAsYHQ/s56/theriyazo%2Btwitter.png
@@ -38,7 +43,3 @@
     </table>
 </details>
 <br>
-<!---
-theriyazo/theriyazo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
