@@ -1,6 +1,6 @@
 <img src="https://1.bp.blogspot.com/-Qn4AMcBOaDs/YS50gXu_CSI/AAAAAAAAjW0/gOViyswx9nQ51PvT-I8XEsHZFMszEztLwCLcBGAsYHQ/s872/theriyazo%2Bgithub.png" background-color="#0D1117">
 
-## Hey, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [RiyazAhamad!](https://www.theriyazo.in)
+## Hey, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [RiyazAhamad!](https://theriyazo.in)
 
 - 👨‍💻 Software Engineer with 3+ years of experience in web and mobile app development.
 - 🎨 UI/UX designer passionate about crafting intuitive user experiences.
